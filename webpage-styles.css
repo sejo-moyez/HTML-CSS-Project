@@ -31,3 +31,11 @@ p {
 .styled-button:hover {
     background-color: #45a049;
 }
+.section2 {
+    margin-top: 40px;
+    padding: 20px;
+    border-radius: 4;
+}
+. sectio2-button{
+    background-color: aquamarine;
+}
